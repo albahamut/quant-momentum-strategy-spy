@@ -23,6 +23,12 @@ The goal is to evaluate whether a simple rule-based strategy can improve risk-ad
 
 ---
 
+## Strategy Performance
+
+![Strategy](strategy_vs_market.png)
+
+---
+
 ## Results
 
 | Metric | Strategy |
@@ -65,9 +71,3 @@ The strategy produces smoother returns with controlled drawdowns compared to buy
 ## Author
 
 Engineering student focused on quantitative research and trading.
-
----
-
-## Strategy Performance
-
-![Strategy](strategy_vs_market.png)
